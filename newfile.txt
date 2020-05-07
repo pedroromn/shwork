@@ -3,4 +3,3 @@ Hello World!
 This linehas 5 space at the beginning and 
 write (:w) Save working
 update (:up) Save working
-This line has 5 space at the beginning and end
