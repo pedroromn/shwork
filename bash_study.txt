@@ -1,2 +1,2 @@
-Bash 101 Hacks page 81 => args2.sh
-BashNotesForProfessionals page 43 => Chapter 10: Control Structures
+Bash 101 Hacks page 110 => Combine Multiple Commands with OR
+BashNotesForProfessionals page 45 => Chapter 10: Control Structures
